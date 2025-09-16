@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD Candidate - University of New Hampshire"
+title: "Postdoctoral Researcher - North Carolina State University"
 author_profile: true
 redirect_from: 
   - /about/
