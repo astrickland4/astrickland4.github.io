@@ -14,6 +14,7 @@ redirect_from:
 * Ph.D in Marine Biology, University of New Hampshire, 2025
 * M.S. in Biological Sciences: Integrative & Organismal Biology, University of New Hampshire, 2022
 * B.S. in Genetics, Clemson University, 2019
+\
 
 # Research interests
 Marine biology, population genomics, conservation genomics, comparative genomics, marine ecology,
@@ -21,13 +22,14 @@ differential gene expression, genomic responses under a changing climate, epigen
 and genomic adaptations, metagenomics, quantitative ecology, bioinformatics, open
 access programming, theoretical modeling, machine learning, neural networks,
 disturbance ecology, marine pathogen dynamics
-
+\
 
 # Publications 
 ### Total citations:22, H-index:4 as of 1 October, 2024
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+\
   
 # Research and relevant experiences
 ## January 2022 - May 2025: PhD graduate research
@@ -72,16 +74,19 @@ responding to unusual situations.
 * Compared parasitic infections in farmed and wild oysters.
 * Assessed eastern oyster larval abundance in GBE in conjunction with
 physicochemical data.
+\
 
 # Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+\
   
 # Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+\
+
 # Service and leadership
 
