@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-\
+
 
 # Education
 * Ph.D in Marine Biology, University of New Hampshire, 2025
