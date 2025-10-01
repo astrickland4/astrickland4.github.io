@@ -11,7 +11,6 @@ redirect_from:
 
 
 # Education
-Test
 * Ph.D in Marine Biology, University of New Hampshire, 2025
 * M.S. in Biological Sciences: Integrative & Organismal Biology, University of New Hampshire, 2022
 * B.S. in Genetics, Clemson University, 2019
