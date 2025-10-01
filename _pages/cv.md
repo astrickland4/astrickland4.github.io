@@ -11,42 +11,70 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Marine Biology, University of New Hampshire, 2025
+* M.S. in Biological Sciences: Integrative & Organismal Biology, University of New Hampshire, 2022
+* B.S. in Genetics, Clemson University, 2019
 
-Work experience
+Research interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Marine biology, population genomics, conservation genomics, comparative genomics, marine ecology,
+differential gene expression, genomic responses under a changing climate, epigenetics
+and genomic adaptations, metagenomics, quantitative ecology, bioinformatics, open
+access programming, theoretical modeling, machine learning, neural networks,
+disturbance ecology, marine pathogen dynamics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Publications (Total citations:22, H-index:4 as of 1 October, 2024)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Research and relevant experiences
+======
+* January 2022 - May 2025: PhD graduate research
+  * University of New Hampshire
+  * Supervisor: Dr. Bonnie Brown
+  * Compared genomes of wild and cultivated eastern oysters to assess genetic
+diversity.
+  * Assessed Haplosporidium nelsoni and Perkinsus marinus in eastern oysters through
+sequencing data.
+  * Determined gene sequences that contribute to MSX-tolerance in eastern oysters.
+  * Analyzed epigenetic modifications that could contribute to inherited disease
+tolerance.
+  * Inferred population viability of eastern oyster through theoretical modeling.
+
+* January 2022 - September 2024: Editor
+  * UNH Research and Large Center for Development 
+  * Edited large grant proposals for numerous agencies, such as NSF and NIH.
+  * Worked directly with PI’s to produce successful large-scale funding opportunities.
+
+* Summer 2023: AI Innovation Fellow - Machine Learning Track
+  * Stanford University - Inspirit Innovators
+  * Attended sessions dedicated to advanced AI learning, including concepts,
+applications, and live coding.
+  * Created benthic ecology photo identification program using knowledge gained from
+sessions.
+  * Applied the created AI program into research conducted at the UNH Brown lab.
+
+* August 2020 – May 2022: Medical Laboratory Technician
+  * UNH COVID-19 Laboratory
+  * Supervisor: Dr. W. Kelley Thomas
+  * Performed a variety of routine and specialized medical laboratory diagnostic tests for
+the COVID-19 pandemic.
+  * Optimized laboratory testing to acommodate high-throughput testing.
+  * Performed RNA extraction, isolation, and rt-PCR in a BS-3 laboratory setting.
+  * Utilized professional judgment in interpretations of clinical lab results and in
+responding to unusual situations.
+
+* Fall 2019 – December 2021: MSc graduate research
+  * University of New Hampshire
+  * Supervisor: Dr. Bonnie Brown
+  * Quantified and identified parasitic infections using qcPCR in Crassostrea virginica.
+  * Compared parasitic infections in farmed and wild oysters.
+  * Assessed eastern oyster larval abundance in GBE in conjunction with
+physicochemical data.
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
