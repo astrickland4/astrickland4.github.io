@@ -21,7 +21,7 @@ repository               : "astrickland4/astrickland4.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   name             : "Alyssa Strickland"
   former name      : "Alyssa Stasse"
   pronouns         : "she/her"  
