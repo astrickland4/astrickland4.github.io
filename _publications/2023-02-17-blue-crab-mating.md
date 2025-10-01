@@ -3,7 +3,7 @@ title: "First Documentation of Mating Blue Crabs, Callinectes sapidus, in Great 
 collection: publications
 category: manuscripts
 permalink: /publication/2023-02-17-blue-crab-mating
-excerpt: "On 2 September and 7 October 2022, we captured post-copulatory pairs of Callinectes sapidus (Blue Crab) in Green Crab traps in Great Bay Estuary, NH. On the first occasion, the 2 crabs included a mature post-ecdysis (12–24 hour) female and a mature male, and the female's shed exoskeleton also remained in the trap. Both seminal receptacles had pink sperm plugs and were turgid with spermatophores, indicative of recent successful insemination. Details of the second capture mirrored the first with the exception that the exuvia was not in the trap. This is the first scientific reporting of Blue Crabs mating in Great Bay Estuary, NH, documenting an ongoing range expansion of a species with the potential to have major ecological and economic impacts."
+excerpt: "On 2 September and 7 October 2022, we captured post-copulatory pairs of Callinectes sapidus (Blue Crab) in Green Crab traps in Great Bay Estuary, NH. is the first scientific reporting of Blue Crabs mating in Great Bay Estuary, NH, documenting an ongoing range expansion of a species with the potential to have major ecological and economic impacts."
 date: 2023-02-17
 venue: "Northeastern Naturalist"
 paperurl: "https://bioone.org/journals/northeastern-naturalist/volume-30/issue-1/045.030.0106/First-Documentation-of-Mating-Blue-Crabs-Callinectes-sapidus-in-Great/10.1656/045.030.0106.short"
