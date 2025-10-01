@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+\
 
 # Education
 * Ph.D in Marine Biology, University of New Hampshire, 2025
@@ -23,15 +24,15 @@ disturbance ecology, marine pathogen dynamics
 
 
 # Publications 
-## Total citations:22, H-index:4 as of 1 October, 2024
+### Total citations:22, H-index:4 as of 1 October, 2024
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 # Research and relevant experiences
-### January 2022 - May 2025: PhD graduate research
-#### University of New Hampshire
-#### Supervisor: Dr. Bonnie Brown
+## January 2022 - May 2025: PhD graduate research
+### University of New Hampshire
+### Supervisor: Dr. Bonnie Brown
 * Compared genomes of wild and cultivated eastern oysters to assess genetic
 diversity.
 * Assessed Haplosporidium nelsoni and Perkinsus marinus in eastern oysters through
@@ -41,8 +42,8 @@ sequencing data.
 tolerance.
 * Inferred population viability of eastern oyster through theoretical modeling.
 
-### January 2022 - September 2024: Editor
-#### UNH Research and Large Center for Development 
+## January 2022 - September 2024: Editor
+### UNH Research and Large Center for Development 
 * Edited large grant proposals for numerous agencies, such as NSF and NIH.
 * Worked directly with PI’s to produce successful large-scale funding opportunities.
 
@@ -54,9 +55,9 @@ applications, and live coding.
 sessions.
 * Applied the created AI program into research conducted at the UNH Brown lab.
 
-### August 2020 – May 2022: Medical Laboratory Technician
-#### UNH COVID-19 Laboratory
-#### Supervisor: Dr. W. Kelley Thomas
+## August 2020 – May 2022: Medical Laboratory Technician
+### UNH COVID-19 Laboratory
+### Supervisor: Dr. W. Kelley Thomas
 * Performed a variety of routine and specialized medical laboratory diagnostic tests for
 the COVID-19 pandemic.
 * Optimized laboratory testing to acommodate high-throughput testing.
@@ -64,9 +65,9 @@ the COVID-19 pandemic.
 * Utilized professional judgment in interpretations of clinical lab results and in
 responding to unusual situations.
 
-### Fall 2019 – December 2021: MSc graduate research
-#### University of New Hampshire
-#### Supervisor: Dr. Bonnie Brown
+## Fall 2019 – December 2021: MSc graduate research
+### University of New Hampshire
+### Supervisor: Dr. Bonnie Brown
 * Quantified and identified parasitic infections using qcPCR in Crassostrea virginica.
 * Compared parasitic infections in farmed and wild oysters.
 * Assessed eastern oyster larval abundance in GBE in conjunction with
