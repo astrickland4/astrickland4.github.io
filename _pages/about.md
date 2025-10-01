@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Postdoctoral Researcher - North Carolina State University"
+title: "Postdoctoral Researcher"
 author_profile: true
 redirect_from: 
   - /about/
