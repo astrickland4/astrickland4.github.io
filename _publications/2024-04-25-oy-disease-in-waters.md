@@ -1,6 +1,7 @@
 ---
 title: "Haplosporidium nelsoni and Perkinsus marinus occurrence in waters of Great Bay Estuary, New Hampshire"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-04-oy-disease-in-waters
 excerpt: 'In Great Bay Estuary, New Hampshire, USA, Haplosporidium nelsoni and Perkinsus marinus are 2 active pathogens of the eastern oyster Crassostrea virginica (Gmelin), that cause MSX (multinucleated sphere with unknown affinity ‘X’) and dermo mortalities, respectively. Whereas studies have quantified infection intensities in oyster populations and determined whether these parasites exist in certain planktonic organisms, no studies thus far have examined both infectious agents simultaneously in water associated with areas that do and do not have oyster populations. As in other estuaries, both organisms are present in estuarine waters throughout the Bay, especially during June through November, when oysters are most active. Waters associated with oyster habitats had higher, more variable DNA concentrations from these pathogenic organisms than waters at a non-oyster site. This finding allows for enhanced understanding of disease-causing organisms in New England estuaries, where oyster restoration is a priority.'
 date: 2024-04-25

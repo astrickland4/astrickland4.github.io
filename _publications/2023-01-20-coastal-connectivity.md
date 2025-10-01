@@ -1,6 +1,7 @@
 ---
 title: "Evaluating Connectivity of Coastal Marine Habitats in the Gulf of Maine by Integrating Passive Acoustics and Metabarcoding"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-20-coastal-connectivity
 excerpt: 'Ecological connectivity among coastal marine habitats—linkage in the movement of organisms and natural processes across habitat boundaries—has significant implications for the health and resilience of commercially important or threatened species in the Gulf of Maine (GOM), off the coast of the northeastern United States. Methods designed to efficiently assess connectivity are vital for identifying and managing critical habitats (Perry et al., 2018). Paired use of passive acoustic monitoring (PAM) and metabarcoding seawater samples (MSS) for observing biological and functional connectivity at various spatiotemporal scales in the marine environment is largely unexplored and may provide an efficient alternative or supplement to existing strategies.'
 date: 2023-01-20
