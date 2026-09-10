@@ -11,15 +11,15 @@ redirect_from:
 
 ## Education
 
-**University of New Hampshire**, Ph.D. Marine Biology \hfill 2025\
+**University of New Hampshire**, Ph.D. Marine Biology 2025\
 Dissertation: "Eastern oyster, *Crassostrea virginica*, genomics in a well-mixed estuarine system: examining population structure, viability, and response to stressors." \
 Advisor: Dr. Bonnie L. Brown
 
-**University of New Hampshire**, M.Sc. Integrative & Organismal Biology \hfill 2021\
+**University of New Hampshire**, M.Sc. Integrative & Organismal Biology 2021\
 Dissertation: "Larval assessment and infection etiology of cultivated and wild eastern oysters, *Crassostrea virginica*, of Great Bay Estuary, NH." \
 Advisor: Dr. Bonnie L. Brown
 
-**Clemson University**, B.S. Genetics \hfill 2019\
+**Clemson University**, B.S. Genetics 2019\
 Minors: Biochemistry, Spanish Language
 
 ## Research Interests
@@ -59,81 +59,81 @@ Milne, G., J. Miksis-Olds, **A. Stasse**, B.Y. Lee, D. Wilford, and B. Brown. 20
 
 ## Research and Relevant Work Experience
 
-**Postdoctoral Researcher** \hfill 2026--Present\
+**Postdoctoral Researcher** 2026--Present\
 *North Carolina State University*\
 *Supervisor: Dr. Nadya Mamoozadeh*\
-\hspace*{2em}Utilizing tuna genomic data for population-wide studies.
+Utilizing tuna genomic data for population-wide studies.
 
-**Postdoctoral Researcher** \hfill 2025--2026\
+**Postdoctoral Researcher** 2025--2026\
 *Michigan State University*\
 *Supervisors: Dr. Nadya Mamoozadeh \& Dr. Mariah Meek*\
-\hspace*{2em}Extracted DNA from various tuna species and tissue types and prepared for sequencing.\
-\hspace*{2em}Completed and created bioinformatic workflows for diagnostic SNP identification.\
-\hspace*{2em}Tested CRISPR/Cas-13 methodology for species identification from diagnostic SNP.
+Extracted DNA from various tuna species and tissue types and prepared for sequencing.\
+Completed and created bioinformatic workflows for diagnostic SNP identification.\
+Tested CRISPR/Cas-13 methodology for species identification from diagnostic SNP.
 
-**Graduate student, Ph.D.** \hfill 2022--2025\
+**Graduate student, Ph.D.** 2022--2025\
 *University of New Hampshire*\
 *Supervisor: Dr. Bonnie L. Brown*\
-\hspace*{2em}Compared genomes of wild and cultivated eastern oysters to assess genetic diversity.\
-\hspace*{2em}Assessed *Haplosporidium nelsoni* and *Perkinsus marinus* in eastern oysters through sequencing.\
-\hspace*{2em}Determined gene sequences that contribute to MSX-tolerance in eastern oysters.\
-\hspace*{2em}Analyzed epigenetic modifications that could contribute to inherited disease tolerance.\
-\hspace*{2em}Inferred population viability of eastern oyster through theoretical modeling.
+Compared genomes of wild and cultivated eastern oysters to assess genetic diversity.\
+Assessed *Haplosporidium nelsoni* and *Perkinsus marinus* in eastern oysters through sequencing.\
+Determined gene sequences that contribute to MSX-tolerance in eastern oysters.\
+Analyzed epigenetic modifications that could contribute to inherited disease tolerance.\
+Inferred population viability of eastern oyster through theoretical modeling.
 
-**Editor** \hfill 2020--2022\
+**Editor** 2020--2022\
 *University of New Hampshire Research and Large Center for Development*\
 *Supervisor: Michael Thompson*\
-\hspace*{2em}Edited large grant proposals for numerous agencies, such as NSF and NIH.\
-\hspace*{2em}Worked directly with PI’s to produce successful large-scale funding opportunities.
+Edited large grant proposals for numerous agencies, such as NSF and NIH.\
+Worked directly with PI’s to produce successful large-scale funding opportunities.
 
-**Medical Laboratory Technician** \hfill 2020--2022\
+**Medical Laboratory Technician** 2020--2022\
 *University of New Hampshire COVID-19 Laboratory*\
 *Supervisor: Dr. W. Kelley Thomas*\
-\hspace*{2em}Performed specialized medical laboratory diagnostic tests for the COVID-19 pandemic.\
-\hspace*{2em}Performed RNA extraction, isolation, and rt-PCR in a BS-3 laboratory setting.\
-\hspace*{2em}Utilized professional judgment in interpretations of clinical lab results.
+Performed specialized medical laboratory diagnostic tests for the COVID-19 pandemic.\
+Performed RNA extraction, isolation, and rt-PCR in a BS-3 laboratory setting.\
+Utilized professional judgment in interpretations of clinical lab results.
 
-**Graduate student, M.Sc.** \hfill 2019--2021\
+**Graduate student, M.Sc.** 2019--2021\
 *University of New Hampshire*\
 *Supervisor: Dr. Bonnie L. Brown*\
-\hspace*{2em}Quantified and identified parasitic infections using qcPCR in *Crassostrea virginica*.\
-\hspace*{2em}Compared parasitic infections in farmed and wild oysters.\
-\hspace*{2em}Assessed eastern oyster larval abundance in GBE in conjunction with physicochemical data.
+Quantified and identified parasitic infections using qcPCR in *Crassostrea virginica*.\
+Compared parasitic infections in farmed and wild oysters.\
+Assessed eastern oyster larval abundance in GBE in conjunction with physicochemical data.
 
 ## Funding and Awards
 
-UNH SMSOE Graduate Award. $4,500 \hfill 2023\
-NH Sea Grant Graduate Fellowship. $16,000 \hfill 2022\
-UNH DBS Excellence in Research. $200	\hfill 2022\
-UNH SMSOE GRS Best Oral Presentation. $500 \hfill 2022\
-UNH Marine Biology Graduate Grant. $4,000 \hfill 2021\
-Graduate Assistantship, University of New Hampshire \hfill 2020--2021\
-Graduate Teaching Assistantship, University of New Hampshire \hfill 2019--2023\
+UNH SMSOE Graduate Award. $4,500 2023\
+NH Sea Grant Graduate Fellowship. $16,000 2022\
+UNH DBS Excellence in Research. $200 2022\
+UNH SMSOE GRS Best Oral Presentation. $500 2022\
+UNH Marine Biology Graduate Grant. $4,000 2021\
+Graduate Assistantship, University of New Hampshire 2020--2021\
+Graduate Teaching Assistantship, University of New Hampshire 2019--2023\
 
 ## Teaching Experience
 
-**Program Development, Day as a Scientist** \hfill 2022\
-\hspace*{2em}Designed hands-on science lesson plans and experiments for a one-day, on-campus program \
-\hspace*{2em}serving 60 students from a minority-serving high school.\
-\hspace*{2em}Developed lectures and post-activity assessments delivered during in-school visits.
+**Program Development, Day as a Scientist** 2022\
+Designed hands-on science lesson plans and experiments for a one-day, on-campus program \
+serving 60 students from a minority-serving high school.\
+Developed lectures and post-activity assessments delivered during in-school visits.
 
-**Teaching Assistant, Data Science with R in Life Sciences** \hfill 2022\
+**Teaching Assistant, Data Science with R in Life Sciences** 2022\
 *University of New Hampshire Biomedical Sciences Department*\
-\hspace*{2em}Led programming demonstrations for students at both graduate and undergraduate level.\
-\hspace*{2em}Coordinated activities based on useful programming activities.\
-\hspace*{2em}Graded programming assignments.
+Led programming demonstrations for students at both graduate and undergraduate level.\
+Coordinated activities based on useful programming activities.\
+Graded programming assignments.
 
-**Teaching Assistant, Anatomy and Physiology** \hfill 2021, 2023\
+**Teaching Assistant, Anatomy and Physiology** 2021, 2023\
 *University of New Hampshire Biomedical Sciences Department*\
-\hspace*{2em}Assisted students in laboratory activities covering basic concepts in human physiology.\
-\hspace*{2em}Led discussion-based activities for physiology exercises.\
-\hspace*{2em}Maintained a safe laboratory based on UNH laboratory guidelines.
+Assisted students in laboratory activities covering basic concepts in human physiology.\
+Led discussion-based activities for physiology exercises.\
+Maintained a safe laboratory based on UNH laboratory guidelines.
 
-**Teaching Assistant, Applied Biostatistics I** \hfill 2019\
+**Teaching Assistant, Applied Biostatistics I** 2019\
 *University of New Hampshire Biological Sciences Department*\
-\hspace*{2em}Created exercises to emphasize main points covered in lecture.\
-\hspace*{2em}Taught students how to conduct a scientific experiment and document necessary steps.\
-\hspace*{2em}Graded homework assignments each week in a timely matter to help students succeed.
+Created exercises to emphasize main points covered in lecture.\
+Taught students how to conduct a scientific experiment and document necessary steps.\
+Graded homework assignments each week in a timely matter to help students succeed.
 
 ## Selected Presentations
 
@@ -148,81 +148,81 @@ Graduate Teaching Assistantship, University of New Hampshire \hfill 2019--2023\
 **Stasse, A.**, Cheng, M. LH., Meyer, K., Brown, B.L. (2021, January). Evaluation of oyster larval abundance in the Great Bay Estuary. NH Sea Grant. Virtual.
 
 ## Mentorship
-**Various graduate students** \hfill 2021--Present\
-\hspace*{2em}Instructed numerous graduate students on DNA extraction, PCR amplification, visualizing\
-\hspace*{2em}results utilizing gel electrophoresis, and analyzing genomic results.
+**Various graduate students** 2021--Present\
+Instructed numerous graduate students on DNA extraction, PCR amplification, visualizing\
+results utilizing gel electrophoresis, and analyzing genomic results.
 
-**Caylin Grove** \hfill 2022--2025\
-\hspace*{2em}Undergraduate researcher in the Brown Ecological Genetics lab.\
-\hspace*{2em}Genomic tests for MSX & Dermo in eastern oyster larvae.\
-\hspace*{2em}Current M.Sc. student at University of Pittsburgh.
+**Caylin Grove** 2022--2025\
+Undergraduate researcher in the Brown Ecological Genetics lab.\
+Genomic tests for MSX & Dermo in eastern oyster larvae.\
+Current M.Sc. student at University of Pittsburgh.
 
-**Lauren Welch** \hfill 2021--2022\
-\hspace*{2em}Undergraduate researcher in the Brown Ecological Genetics lab.\
-\hspace*{2em}Isolation of eastern oyster larvae for downstream genomic testing.\
-\hspace*{2em}Earned M.Sc. in Forensic Science at University of New Haven.
+**Lauren Welch** 2021--2022\
+Undergraduate researcher in the Brown Ecological Genetics lab.\
+Isolation of eastern oyster larvae for downstream genomic testing.\
+Earned M.Sc. in Forensic Science at University of New Haven.
 
 ## Invited Lectures
 
-**NH Shellfish Farmers Initiative** \hfill 2021\
-\hspace*{2em}Infection etiology of cultivated and wild eastern oysters in GBE, NH.\
-\hspace*{2em}Coordinator: Kelsey Meyer
+**NH Shellfish Farmers Initiative** 2021\
+Infection etiology of cultivated and wild eastern oysters in GBE, NH.\
+Coordinator: Kelsey Meyer
 
-**Professional Perspectives on Biology** \hfill 2021\
-\hspace*{2em}Evaluation of oyster larval abundance in the Great Bay Estuary.\
-\hspace*{2em}Coordinator: Dr. Patricia Jarema\
-\hspace*{2em}Presented with Kelsey Meyer
+**Professional Perspectives on Biology** 2021\
+Evaluation of oyster larval abundance in the Great Bay Estuary.\
+Coordinator: Dr. Patricia Jarema\
+Presented with Kelsey Meyer
 
 ## Press
 
 **COLSA Grad Student Leads 'Day as a Scientist' Event for Manchester High Schoolers**\
-\hspace*{2em}UNH Today
+UNH Today
 
 **Aquaculture Research at UNH: Farming and Restoration in Great Bay Estuary**\
-\hspace*{2em}UNH COLSA Spotlight
+UNH COLSA Spotlight
 
 **Alyssa Stasse '21G, PhD Student**\
-\hspace*{2em}UNH COLSA Spotlight
+UNH COLSA Spotlight
 
 **Pearl of Hope**\
-\hspace*{2em}UNH Today
+UNH Today
 
 **Crustacean Consternation**\
-\hspace*{2em}UNH Today
+UNH Today
 
 **Acing the Test**\
-\hspace*{2em}UNH Today
+UNH Today
 
 ## Outreach
-**Invited Guest Judge for UNH URC** \hfill 2023, 2024
+**Invited Guest Judge for UNH URC** 2023, 2024
 
-**Founder**, UNH DBS Day as a Scientist \hfill 2022\
-\hspace*{2em}Large-scale, one-day event bringing 60 students from a minority-serving high school to UNH \
-\hspace*{2em}to conduct hands-on science experiments.\
-\hspace*{2em}Preceded by multiple in-school visits with introductory lectures and experiment preparation.\
-\hspace*{2em}Followed by an in-school follow-up session to discuss results.
+**Founder**, UNH DBS Day as a Scientist 2022\
+Large-scale, one-day event bringing 60 students from a minority-serving high school to UNH \
+to conduct hands-on science experiments.\
+Preceded by multiple in-school visits with introductory lectures and experiment preparation.\
+Followed by an in-school follow-up session to discuss results.
 
-**Junior Science & Humanities Symposium Judge** \hfill 2022
+**Junior Science & Humanities Symposium Judge** 2022
 
 ## Professional Service and Activities
-US Aquaculture Society Student Activities Committee \hfill 2022-2024 \
-UNH Ecological Genomics Reading Group Leader \hfill 2022-2024
+US Aquaculture Society Student Activities Committee 2022-2024 \
+UNH Ecological Genomics Reading Group Leader 2022-2024
 
 ## Professional Memberships
 National Shellfisheries Association \
 US Aquaculture Society
 
 ## Certifications
-Teaching Certificate, NCSU \hfill In progress \
-Accelerate to Industry (A2i) Certificate, NCSU \hfill In progress \
-College Teaching Graduate Certificate, UNH \hfill 2024 \
-Data Science Graduate Certificate, UNH \hfill 2023 \
-AAUS Scientific Diver \hfill 2022	\
-DAN Rescue Diver \hfill 2022 \
-Thermo-Fischer COVID EUA Workflow Training \hfill 2021 \
-UNH Small Boat Safety Course \hfill 2021 \
-SDI Underwater Navigation Diver \hfill 2020 \
-PADI Open Water Scuba Diving Certification \hfill 2019
+Teaching Certificate, NCSU In progress \
+Accelerate to Industry (A2i) Certificate, NCSU In progress \
+College Teaching Graduate Certificate, UNH 2024 \
+Data Science Graduate Certificate, UNH 2023 \
+AAUS Scientific Diver 2022	\
+DAN Rescue Diver 2022 \
+Thermo-Fischer COVID EUA Workflow Training 2021 \
+UNH Small Boat Safety Course 2021 \
+SDI Underwater Navigation Diver 2020 \
+PADI Open Water Scuba Diving Certification 2019
 
 ## References
 
