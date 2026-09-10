@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alyssa Strickland"
+title                    : "Alyssa R.S. Strickland"
 title_separator          : "-"
-name                     : &name "Alyssa Strickland"
-description              : &description "Postdoctoral researcher in the Mamoozadeh & Meek Labs using genomic tools in tuna species."
+name                     : &name "Alyssa R.S. Strickland"
+description              : &description "Postdoctoral researcher in the Mamoozadeh Lab using genomic tools in tuna species."
 url                      : https://astrickland4.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "astrickland4/astrickland4.github.io"
@@ -22,10 +22,10 @@ repository               : "astrickland4/astrickland4.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Alyssa Strickland"
+  name             : "Alyssa R.S. Strickland"
   former name      : "Alyssa Stasse"
   pronouns         : "she/her"  
-  bio              : "Postdoctoral researcher in the Mamoozadeh & Meek Labs using genomic tools in tuna species."
+  bio              : "Postdoctoral researcher in the Mamoozadeh Lab using genomic tools in tuna species."
   location         : "Raleigh, NC, USA"
   employer         : "North Carolina State University"
   uri              : # URL
