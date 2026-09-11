@@ -86,7 +86,7 @@ Inferred population viability of eastern oyster through theoretical modeling.
 Edited large grant proposals for numerous agencies, such as NSF and NIH.\
 Worked directly with PI’s to produce successful large-scale funding opportunities.
 
-**Medical Laboratory Technician** 2020--2022\
+**Medical laboratory technician** 2020--2022\
 *University of New Hampshire COVID-19 Laboratory*\
 *Supervisor: Dr. W. Kelley Thomas*\
 Performed specialized medical laboratory diagnostic tests for the COVID-19 pandemic.\
