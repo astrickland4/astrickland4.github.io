@@ -59,12 +59,12 @@ Milne, G., J. Miksis-Olds, **A. Stasse**, B.Y. Lee, D. Wilford, and B. Brown. 20
 
 ## Research and Relevant Work Experience
 
-**Postdoctoral Researcher** 2026--Present\
+**Postdoctoral researcher** 2026--Present\
 *North Carolina State University*\
 *Supervisor: Dr. Nadya Mamoozadeh*\
 Utilizing tuna genomic data for population-wide studies.
 
-**Postdoctoral Researcher** 2025--2026\
+**Postdoctoral researcher** 2025--2026\
 *Michigan State University*\
 *Supervisors: Dr. Nadya Mamoozadeh \& Dr. Mariah Meek*\
 Extracted DNA from various tuna species and tissue types and prepared for sequencing.\
