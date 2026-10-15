@@ -39,3 +39,17 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Use the full width of the content column */
+.list__item {
+  padding-right: 0;
+}
+
+/* Optional: allow a wider overall layout on big screens */
+@media (min-width: 80em) {
+  #main,
+  .masthead__inner-wrap,
+  .page__footer footer {
+    max-width: 1600px;
+  }
+}
