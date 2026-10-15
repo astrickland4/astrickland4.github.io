@@ -5,6 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**Previous name: Alyssa Stasse**
 
 *I am currently looking for jobs starting summer/fall of 2027.*
 

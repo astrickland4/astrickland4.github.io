@@ -4,7 +4,7 @@ title: "Talks and Presentations"
 author_profile: true
 ---
 
-## Selected Presentations \small (5 of 10)
+## Selected Presentations (5 of 10)
 
 **Stasse, A.**, Brown, B.L. (2024, March). Eastern oyster, Crassostrea virginica, population genomics in a well-mixed estuary system (Great Bay Estuary, NH, USA). Oral. National Shellfisheries Association Meeting 2024.  
 
